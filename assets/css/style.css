@@ -994,7 +994,7 @@ section {
 # Events
 --------------------------------------------------------------*/
 .events {
-  background: url(../img/events-bg.jpg) center center no-repeat;
+  background: url(../imagenes/natura1.jpg) center center no-repeat;
   background-size: cover;
   position: relative;
 }
@@ -1307,7 +1307,7 @@ section {
 --------------------------------------------------------------*/
 .testimonials {
   padding: 80px 0;
-  background: url("../img/testimonials-bg.jpg") no-repeat;
+  background: url("../imagenes/escritorio.jpg") no-repeat;
   background-position: center center;
   background-size: cover;
   position: relative;
@@ -1420,7 +1420,7 @@ section {
 }
 
 .contact .info {
-  background: #91a899;
+  background: #f0f4f0;
 }
 .formu {
 
@@ -1453,7 +1453,7 @@ background-color: rgb(136, 119, 160);
   padding: 0 0 0 60px;
   margin-bottom: 0;
   font-size: 14px;
-  color: #7a7368;
+  color: #040114;
 }
 
 .contact .info:hover i {
@@ -1463,7 +1463,7 @@ background-color: rgb(136, 119, 160);
 
 .contact .php-email-form {
   width: 100%;
-  box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
+  box-shadow: 0 0 24px 0 rgba(16, 0, 0, 0.12);
   padding: 30px;
   background: #fff;
 }
@@ -1474,7 +1474,7 @@ background-color: rgb(136, 119, 160);
 
 .contact .php-email-form .error-message {
   display: none;
-  color: #fff;
+  color: #03000d;
   background: #ed3c0d;
   text-align: center;
   padding: 15px;
@@ -1551,7 +1551,7 @@ background-color: rgb(136, 119, 160);
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #35322d;
+  background: #4a6e50;
   color: #fff;
   font-size: 14px;
   text-align: center;
